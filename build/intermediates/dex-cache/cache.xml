@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/championshuttler/.android/build-cache/fa77966d390c266b03e2f48b6aad5c262e80183e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="/home/championshuttler/Desktop/Agora_Native_SDK_for_Android_FULL/samples/OpenLive_Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3ba1fa38774004e8fd198d063fe5948d6fd82b67/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/championshuttler/.android/build-cache/c38963baf23627192749b513eb687577ec49f8c0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="/home/championshuttler/Desktop/Agora_Native_SDK_for_Android_FULL/samples/OpenLive_Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_24a3616f0ea949c25feb83ae4c5efa7c26c9fa92/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/championshuttler/Desktop/Agora_Native_SDK_for_Android_FULL/samples/OpenLive_Android/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/home/championshuttler/Desktop/Agora_Native_SDK_for_Android_FULL/samples/OpenLive_Android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_cebea883f446066f96dccf7112f62cd27b3ec393/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/championshuttler/.android/build-cache/977e52227adef6ee2b2f2b02e1b85ee98c4840ef/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="/home/championshuttler/Desktop/Agora_Native_SDK_for_Android_FULL/samples/OpenLive_Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2291f3b624be3d4ac75b9346a8ef0e81fa880565/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/championshuttler/.android/build-cache/5776bac42375b91e11a427f6659dd76b095407be/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3ef349d9dbf4e797f547b51db938f1e97cc0798e">
+        <dex dex="/home/championshuttler/Desktop/Agora_Native_SDK_for_Android_FULL/samples/OpenLive_Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_abbcb47eee17746d4aab9d39cfe27e544ddd5141/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/championshuttler/.android/build-cache/e83cbb123d71cd5d3440258ae260d7b618620662/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="/home/championshuttler/Desktop/Agora_Native_SDK_for_Android_FULL/samples/OpenLive_Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_703432f952d3550d3ffbac8b57560c48a22e6ad0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/championshuttler/Desktop/Agora_Native_SDK_for_Android_FULL/libs/agora-rtc-sdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7a6a70ff32dc8801dd90cb62870af3190c63c139">
+        <dex dex="/home/championshuttler/Desktop/Agora_Native_SDK_for_Android_FULL/samples/OpenLive_Android/app/build/intermediates/transforms/dex/debug/folders/1000/2/agora-rtc-sdk_ef7d190b27790560405b02da9cbf0eab578c9462/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/championshuttler/.android/build-cache/09ab9f047b7b4d854de6361051824ec084b1b917/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="/home/championshuttler/Desktop/Agora_Native_SDK_for_Android_FULL/samples/OpenLive_Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ec454323d15fe3bf5b9c72d7bc015d59c3d0af91/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/championshuttler/.android/build-cache/be284f1bef9ddbf18f56418b8f670efcbdffe479/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="/home/championshuttler/Desktop/Agora_Native_SDK_for_Android_FULL/samples/OpenLive_Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e7b55fb87237dffd11b7f7881fed97d3691d51b8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/championshuttler/.android/build-cache/8a78a6609f1526e51dbad3b0ef7215162a919311/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9ab787a20aae245b5b3651ae0b9c38459eb37715">
+        <dex dex="/home/championshuttler/Desktop/Agora_Native_SDK_for_Android_FULL/samples/OpenLive_Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bf5030251cf8d9c0b33ef0a201e38041b2d5f366/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/championshuttler/.android/build-cache/a43cf53ed7ba16f2b8f16147881296f651be22f6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="/home/championshuttler/Desktop/Agora_Native_SDK_for_Android_FULL/samples/OpenLive_Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a77c4d8818b0cc3de21d2a48d21e2295c739a67d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/championshuttler/.gradle/caches/modules-2/files-2.1/com.github.tony19/apktool-lib/1.4.4-3/1d0125bf578cb30dd192496db56c2d937495248a/apktool-lib-1.4.4-3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1d0125bf578cb30dd192496db56c2d937495248a">
+        <dex dex="/home/championshuttler/Desktop/Agora_Native_SDK_for_Android_FULL/samples/OpenLive_Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/apktool-lib-1.4.4-3_ced58e105db8ac6c3fc89499e2f190b308949c8b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/championshuttler/Desktop/Agora_Native_SDK_for_Android_FULL/samples/OpenLive_Android/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c7e7be1eeead9c290d14e573413ecc6c13667f98">
+        <dex dex="/home/championshuttler/Desktop/Agora_Native_SDK_for_Android_FULL/samples/OpenLive_Android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e4fe7152d2d60e1a96dea75baa566ec8a9622388/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/championshuttler/.gradle/caches/modules-2/files-2.1/com.github.tony19/logback-android-classic/1.1.1-4/f20b1158fcca0aef6043886ef8605556a09058ca/logback-android-classic-1.1.1-4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f20b1158fcca0aef6043886ef8605556a09058ca">
+        <dex dex="/home/championshuttler/Desktop/Agora_Native_SDK_for_Android_FULL/samples/OpenLive_Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/logback-android-classic-1.1.1-4_e214b23f245300c873a21b1ac1f81b6c34c88255/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/championshuttler/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.21/139535a69a4239db087de9bab0bee568bf8e0b70/slf4j-api-1.7.21.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="139535a69a4239db087de9bab0bee568bf8e0b70">
+        <dex dex="/home/championshuttler/Desktop/Agora_Native_SDK_for_Android_FULL/samples/OpenLive_Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/slf4j-api-1.7.21_7084788d88c751335d53eb7c7500c0b27cbaf805/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/championshuttler/.gradle/caches/modules-2/files-2.1/com.github.tony19/logback-android-core/1.1.1-4/cd422166cca6c3d930309a6685ea3f40c91942ce/logback-android-core-1.1.1-4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd422166cca6c3d930309a6685ea3f40c91942ce">
+        <dex dex="/home/championshuttler/Desktop/Agora_Native_SDK_for_Android_FULL/samples/OpenLive_Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/logback-android-core-1.1.1-4_89012ec6d138be0eaafc658785939197e576fb0b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/championshuttler/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.0/support-annotations-25.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="/home/championshuttler/Desktop/Agora_Native_SDK_for_Android_FULL/samples/OpenLive_Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.0_4458e27babc070ed12179fdc02b6ed8b1331a893/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/championshuttler/.android/build-cache/e4d4e24fc443291c6546594a40ea1498aeba8a34/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/championshuttler/Desktop/Agora_Native_SDK_for_Android_FULL/samples/OpenLive_Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6bf81d00b54f4074236a838cfee57dc352bbe0a0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/championshuttler/.android/build-cache/53ae151620192537ffbfa4f0fb62b6c4ddc13e71/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="/home/championshuttler/Desktop/Agora_Native_SDK_for_Android_FULL/samples/OpenLive_Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e9cec290a8442edd57f5ee8cc41b56bd454b8f52/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/championshuttler/.android/build-cache/41e414bfcde7b3efb07eb17eb188395ba58ea273/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3e61044038fb54cddf6b8dc79f41d2b57f42caf">
+        <dex dex="/home/championshuttler/Desktop/Agora_Native_SDK_for_Android_FULL/samples/OpenLive_Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0dc9f7e15554ac31772cf92c57337631c203093b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/championshuttler/.android/build-cache/06f989ee242a7c3eb9ad63f63d4d9bb1a880ca8f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbb206f7a119f66ce171d95aae1225a5b209a8b7">
+        <dex dex="/home/championshuttler/Desktop/Agora_Native_SDK_for_Android_FULL/samples/OpenLive_Android/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c55594512485806ddee547cd18301f3333ead074/classes.dex" />
+    </item>
+
+</items>
